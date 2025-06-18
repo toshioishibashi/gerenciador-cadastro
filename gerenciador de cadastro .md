@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 este projeto possui quatro entidades pet , tutor,vacina e veterinario.
 ele  (Cria,atualiza,busca e deleta) o cadastro do tutor.
 ele  (Cria,atualiza,busca e deleta) o cadastro do pet.
@@ -8,3 +9,8 @@ passo 1:No terminal do VS code usar o comando(npm start) tera q aparecer o aviso
 🚀 Servidor rodando na porta 3000)
 
 
+=======
+este projeto possui duas entidades pet e tutor.
+ele  (Cria,atualiza,busca e deleta) o cadastro do tutor.
+ele  (Cria,atualiza,busca e deleta) o cadastro do pet.
+>>>>>>> 26140451d846ffd738b33d0a35db12fabab1aaef

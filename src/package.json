@@ -5,7 +5,10 @@
     "type": "module",
     "scripts": {
       "start": "node src/app.js"
+<<<<<<< HEAD
       
+=======
+>>>>>>> 26140451d846ffd738b33d0a35db12fabab1aaef
     },
     "dependencies": {
       "dotenv": "^16.0.3",
